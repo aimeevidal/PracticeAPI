@@ -6,7 +6,7 @@ namespace APIConsole
     {
         static void Main(string[] args)
         {
-            
+            //declare or assign values to variables
         }
 
     }
