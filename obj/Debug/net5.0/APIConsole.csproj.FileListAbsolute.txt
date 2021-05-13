@@ -1,0 +1,16 @@
+C:\Users\ADMIN\Documents\Dev Projects\APIConsole\bin\Debug\net5.0\APIConsole.exe
+C:\Users\ADMIN\Documents\Dev Projects\APIConsole\bin\Debug\net5.0\APIConsole.deps.json
+C:\Users\ADMIN\Documents\Dev Projects\APIConsole\bin\Debug\net5.0\APIConsole.runtimeconfig.json
+C:\Users\ADMIN\Documents\Dev Projects\APIConsole\bin\Debug\net5.0\APIConsole.runtimeconfig.dev.json
+C:\Users\ADMIN\Documents\Dev Projects\APIConsole\bin\Debug\net5.0\APIConsole.dll
+C:\Users\ADMIN\Documents\Dev Projects\APIConsole\bin\Debug\net5.0\ref\APIConsole.dll
+C:\Users\ADMIN\Documents\Dev Projects\APIConsole\bin\Debug\net5.0\APIConsole.pdb
+C:\Users\ADMIN\Documents\Dev Projects\APIConsole\obj\Debug\net5.0\APIConsole.csprojAssemblyReference.cache
+C:\Users\ADMIN\Documents\Dev Projects\APIConsole\obj\Debug\net5.0\APIConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Documents\Dev Projects\APIConsole\obj\Debug\net5.0\APIConsole.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Documents\Dev Projects\APIConsole\obj\Debug\net5.0\APIConsole.AssemblyInfo.cs
+C:\Users\ADMIN\Documents\Dev Projects\APIConsole\obj\Debug\net5.0\APIConsole.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\Dev Projects\APIConsole\obj\Debug\net5.0\APIConsole.dll
+C:\Users\ADMIN\Documents\Dev Projects\APIConsole\obj\Debug\net5.0\ref\APIConsole.dll
+C:\Users\ADMIN\Documents\Dev Projects\APIConsole\obj\Debug\net5.0\APIConsole.pdb
+C:\Users\ADMIN\Documents\Dev Projects\APIConsole\obj\Debug\net5.0\APIConsole.genruntimeconfig.cache
